@@ -1,2 +1,3 @@
 # MIMIC3-ISP-OMOP
-import https://github.com/ohdsi/commondatamodel/wiki/PERSON
+install.packages("devtools")
+devtools::install_github("OHDSI/CommonDataModel")
